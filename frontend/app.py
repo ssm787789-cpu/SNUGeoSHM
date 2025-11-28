@@ -64,3 +64,8 @@ if __name__ == '__main__':
     print(f"Pages folder: {pages_folder}")  # 디버깅용
     print(f"Pages folder exists: {os.path.exists(pages_folder)}")
     app.run(debug=True, port=8050)
+
+        # 환경 변수에서 포트 가져오기 (Render는 PORT 환경변수 사용)
+    port = int(os.environ.get('PORT', 8050))
+    
+    app.run(debug=False, host='0.0.0.0', port=port)
