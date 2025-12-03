@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.15, 34.85]
+      },
+      "properties": {
+        "id": "T1",
+        "name": "Turbine 1",
+        "capacity": "8 MW",
+        "install_year": 2024,
+        "status": "operational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.18, 34.88]
+      },
+      "properties": {
+        "id": "T2",
+        "name": "Turbine 2",
+        "capacity": "8 MW",
+        "install_year": 2024,
+        "status": "operational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.20, 34.82]
+      },
+      "properties": {
+        "id": "T3",
+        "name": "Turbine 3",
+        "capacity": "10 MW",
+        "install_year": 2024,
+        "status": "operational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.12, 34.90]
+      },
+      "properties": {
+        "id": "T4",
+        "name": "Turbine 4",
+        "capacity": "8 MW",
+        "install_year": 2024,
+        "status": "operational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.22, 34.87]
+      },
+      "properties": {
+        "id": "T5",
+        "name": "Turbine 5",
+        "capacity": "10 MW",
+        "install_year": 2024,
+        "status": "operational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.16, 34.86]
+      },
+      "properties": {
+        "id": "T6",
+        "name": "Turbine 6",
+        "capacity": "8 MW",
+        "install_year": 2024,
+        "status": "operational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.19, 34.84]
+      },
+      "properties": {
+        "id": "T7",
+        "name": "Turbine 7",
+        "capacity": "10 MW",
+        "install_year": 2024,
+        "status": "operational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.14, 34.89]
+      },
+      "properties": {
+        "id": "T8",
+        "name": "Turbine 8",
+        "capacity": "8 MW",
+        "install_year": 2024,
+        "status": "operational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.21, 34.85]
+      },
+      "properties": {
+        "id": "T9",
+        "name": "Turbine 9",
+        "capacity": "10 MW",
+        "install_year": 2024,
+        "status": "operational"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.17, 34.83]
+      },
+      "properties": {
+        "id": "T10",
+        "name": "Turbine 10",
+        "capacity": "8 MW",
+        "install_year": 2024,
+        "status": "operational"
+      }
+    }
+  ]
+}
